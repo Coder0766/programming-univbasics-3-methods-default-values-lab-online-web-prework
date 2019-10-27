@@ -9,7 +9,3 @@ def meal_choice(protein = "Feasant", veg1, veg2) #Meat
     return "A plate of #{protein} with #{veg1} and #{veg2}."
     
 end
-
-  meal_choice()
-    meal_choice("Feasant","Tuscan Kale","Sunchoke Salad")
-  meal_choice("meat","Tuscan Kale","Sunchoke Salad")
