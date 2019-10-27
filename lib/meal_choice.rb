@@ -9,5 +9,5 @@ def meal_choice(protein = {}, veg1, veg2)
 end
 
   meal_choice("Feasant","Tuscan Kale", "Sunchoke Salad")
-  meal_choice("Duck", "Tuscan Kale", "Sunchoke Salad") 
+  meal_choice("Tuscan Kale", "Sunchoke Salad") 
   
