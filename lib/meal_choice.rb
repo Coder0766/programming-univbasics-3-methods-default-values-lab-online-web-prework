@@ -1,7 +1,7 @@
 # Your code here
 # Define a Method that takes in/ uses a required and optional Argument 
 
-def meal_choice(protein = {}, veg1, veg2) #Meat
+def meal_choice(protein = {}, veg1, veg2)#Meat
     [protein = "Feasant"]
     puts "protein" + "veg1 + veg2"
     puts "What a nutritious meal!"
